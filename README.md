@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development,app development and software development 
 - 🌱 I’m currently learning ethical hacking 
 - 💞️ I’m looking to collaborate on a bot project
-- 📫 How to reach me text me on whatsapp 27736267768,insta: Tsepo_Mohlomi404 
+- 📫 How to reach me text me on whatsapp 27735940102,insta: Tsepo_Mohlomi404 
 - 😄 Pronouns: He
 - ⚡ Fun fact: Maskim Yakkubet is one of the richest black hat hacker in the world,he is worth more than $7billion
 
