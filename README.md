@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tsepo-Mohlomi
-- 👀 I’m interested in web development,app development and software development 
+- 👀 I’m interested in web development,app development,software development and information technology 
 - 🌱 I’m currently learning ethical hacking 
-- 💞️ I’m looking to collaborate on a bot project
-- 📫 How to reach me text me on whatsapp 27735940102,insta: Tsepo_Mohlomi404 
+- 💞️ I’m looking to collaborate on a bot project and other interesting things to boost my knowledge 
+- 📫 How to reach me text me on whatsapp 27645063984,insta: Tsepo_Mohlomi404 
 - 😄 Pronouns: He
 - ⚡ Fun fact: Maskim Yakkubet is one of the richest black hat hacker in the world,he is worth more than $7billion
 
