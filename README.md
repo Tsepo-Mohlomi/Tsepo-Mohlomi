@@ -87,8 +87,9 @@ I am focused on strengthening my foundations: writing clearer code, understandin
 ## Connect
 
 <p>
-  <a href="https://wa.me/27645063984"><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" /></a>
+  <a href="https://wa.me/27645063984?text=Hi%2Cthis%20is%20______%20I%20got%20your%20number%20from%20GitHub%20and%20I%20would%20like%20to%20talk%20business%20"><img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" /></a>
   <a href="https://instagram.com/Tsepo_Mohlomi404"><img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61572086798157"><img src="https://img.shields.io/badge/Facebook-Connect%20with%20me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Connect on Facebook" /></a>
   <a href="https://github.com/Tsepo-Mohlomi"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile" /></a>
 </p>
 
